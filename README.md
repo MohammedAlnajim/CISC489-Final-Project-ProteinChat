@@ -53,3 +53,8 @@ Execution Time - Lower is better
 Average BLEU-1 Score - Higher is better
 Average SimCSE Score - Higher is better
 Results should be printed since there is an exception of exporting JSON not corrected.
+
+
+## 6. Acknowledgments
+This project is based on the ProteinChat model and utilizes code from the original ProteinChat repository: https://github.com/mignonjia/ProteinChat
+Reference Paper: "Multi-Modal Large Language Model Enables Protein Function Prediction" by Huo et al.
