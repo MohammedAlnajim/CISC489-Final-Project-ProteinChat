@@ -1,5 +1,5 @@
 
-# [Final project for CISC489 exploring protein function prediction using the ProteinChat LLM. Includes prompt engineering experiments and performance analysis.]
+# Final project for CISC489 exploring protein function prediction using the ProteinChat LLM. Includes prompt engineering experiments and performance analysis.
 
 ## 1. Overview
 This project evaluates the ProteinChat model for protein function prediction, focusing on experiments with different prompting strategies and text generation parameters. It utilizes the `inference_all.py` script to assess performance based on metrics like Perplexity (PPL), BLEU, and SimCSE scores. This work is based on the ProteinChat framework ("Multi-Modal Large Language Model Enables Protein Function Prediction" by Huo et al.).
