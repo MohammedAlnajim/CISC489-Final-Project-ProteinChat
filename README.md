@@ -20,14 +20,14 @@ All essential code (including the Colab notebook `[CISC489 Final Project.ipynb]`
 Run the following commands in a Colab cell to install the necessary libraries:
 
 python
-# Ensure PyTorch matches your Colab CUDA version (e.g., cu118 or cu121)
+### Ensure PyTorch matches your Colab CUDA version (e.g., cu118 or cu121)
 !pip install -U torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
 
-# Core libraries
+### Core libraries
 !pip install -U transformers peft accelerate sentencepiece
 !pip install -U pandas matplotlib nltk
 
-# Specific libraries for ProteinChat components
+### Specific libraries for ProteinChat components
 !pip install -U iopath decord webdataset deepspeed bitsandbytes omegaconf cpm_kernels
 
 Critical Model Configuration (device_map)
