@@ -48,11 +48,11 @@ bash demo.sh
 
 ## 5. Interpreting Output
 Console: View qualitative predictions (Correct vs. Predicted functions), individual losses per protein, and summary metrics:
-//Overall Perplexity (PPL) - Lower is better
-//Execution Time - Lower is better
-//Average BLEU-1 Score - Higher is better
-//Average SimCSE Score - Higher is better
-//Results should be printed since there is an exception of exporting JSON not corrected.
+\\Overall Perplexity (PPL) - Lower is better
+\\Execution Time - Lower is better
+\\Average BLEU-1 Score - Higher is better
+\\Average SimCSE Score - Higher is better
+\\Results should be printed since there is an exception of exporting JSON not corrected.
 
 
 ## 6. Acknowledgments
